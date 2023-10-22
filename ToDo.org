@@ -1,49 +1,39 @@
 #+TITLE: ToDo
 
 * Ish
-** Fleyka
-*** Fleykani sistemalashtirish
-*** Jomboy faylini to'g'irlash
-*** Jomboy balansi nimaga kam chiqayotganini topish
-*** Ishxonani kartaga kiritish
 ** iSell
-*** iSellni sistemalashtirish
-*** DONE iSell chiqimlarda oylik va ijara haqini to'g'ri hisoblash
-CLOSED: [2023-08-08 Tue 17:13]
+*** TODO isell.uz domenini hal qilish
 
-*** DONE iSell bo'yicha power BI da hisobot tayyorlash
-CLOSED: [2023-08-09 Wed 09:41]
+- [ ] sayt.uz bilan gaplashish
+- [ ] Sayidrasul akamga chiqish
+- [ ] isell.uz ni mani yoki Abdulloh akamni nomlariga o'tkazish
+- [ ] isell.uz ni ahost.uz ga o'tkazish
+- [ ] agar bo'lmasa, isell.uz ni ahost.uz dan oldindan band qilib qo'yish
+- [ ] agar bo'lmasa, isell.uz ni webname.uz dan oldindan band qilib qo'yish
 
-*** iSell bo'yicha power BI hisobotini real-time qilish
-*** DONE SMS botda kontraktlarni avto yuborishni yo'lga qo'yish
-CLOSED: [2023-08-08 Tue 01:06]
+*** TODO Eskiz.uz
 
-*** DONE SMS botda faylni adresini o'zgartirsa bo'ladigan qilish
-CLOSED: [2023-08-08 Tue 01:06]
+- [ ] shablonlarni qaytadan kiritish
+
+*** TODO Inv. hisobotini yaxshilash
+*** TODO PowerBI
+*** TODO iSellni qayta tartiblash
+
+- [ ] iSell.xlsx faylini yillar bo'yicha bo'lib chiqish
+- [ ] har bir faylga inv hisobotini qo'shish
+- [ ] powerbi orqali burlashtirish
 
 ** LevIs
-*** LevIsni sistemalashtirish
-*** DONE LevIs - isell qarzlarini to'g'irlash
-CLOSED: [2023-08-08 Tue 17:13]
+*** TODO Muhmmadga shartnoma yuborishni o'rgatish
+*** TODO 6700 ni topish
+*** TODO Инвестиция, олим ака, флейка
+** Fleyka
+*** TODO PowerBI hisoboti
+*** TODO KPI
+** TODO Odoo ni qarab chiqish (ERP)
+** TODO Akkauntlarni tartibga solish
 
-*** Abdusattor akadagi Sumga ketgan xarajatlarni Islom akamdan tasdiqlash
-*** Abdusattor akani taksi pullarini bo'lish
-*** LevIs dagi proyektlarni baholashni avtomatlashtirish
-*** LevIs investitsiyalar jadvalini shakllantirish
-*** LevIs Kassani to'girlash
+- [ ] Azureni ija8128@gmail.com ga o'tkazish
 
-- [ ] ZI BYD 3
-- [ ] Sardor aka $1500
-- [ ] Alisher Raximov $100
-
-** Ishxonani login parollarini tartibga solish
-** ERPNext ni o'rganish va ma'qul kelsa uni joriy qilish
 * Shaxsiy
-** Har kuni Qur'on o'qish
-** Har kuni mashq qilish
-** Har kuni dars eshitish
-** "Введение в алгебру (Кострикин)" 2 va 3-qismlarini o'qish
-** "Математический анализ (Зорич)" 1 va 2-qismlarini o'qish
-** O'qishim bo'yicha uchta maqolani tayyorlash
-* O'qish
-** Diplom olish uchun mo'lallanga qog'ozni o'qishimga topshirish
+** TODO Google akkauntlarni tozalash
