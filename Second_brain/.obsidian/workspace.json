@@ -11,8 +11,12 @@
             "id": "c2b2036aba927990",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Matematika/1-darajali logika.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matematika/1-darajali logika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Matematika/1-darajali logika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analiz.md"
+                "file": "Matematika/1-darajali logika.md"
               }
             }
           }
@@ -140,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e73b54d0500176a9",
+  "active": "c2b2036aba927990",
   "lastOpenFiles": [
-    "Ish.md"
+    "Ish/Ish.md",
+    "Matematika/1-darajali logika.md",
+    "Untitled.md",
+    "Matematika",
+    "Ish"
   ]
 }
