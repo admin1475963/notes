@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan.md",
+                "file": "Matematika/1-darajali logika.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Matematika/1-darajali logika.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "Matematika/1-darajali logika.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "Matematika/1-darajali logika.md"
               }
             }
           }
@@ -155,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5d4303a82ec0e04",
+  "active": "e73b54d0500176a9",
   "lastOpenFiles": [
     "Plan.md",
     "Ish/Work.md",

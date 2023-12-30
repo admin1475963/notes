@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "72b8ae69f3333224",
+        "id": "e47e436cb2dd4aa1",
         "type": "tabs",
         "children": [
           {
-            "id": "551c1b52d58f03e4",
+            "id": "272e354bd6af20ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ish.md",
+                "file": "Plan.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d6e89ff31fbe9112",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6255b710ae7d4197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ish.md",
+            "file": "Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ish.md",
+            "file": "Plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ish.md"
+            "file": "Plan.md"
           }
         }
       }
@@ -131,8 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86e3e35713e89f14",
+  "active": "272e354bd6af20ba",
   "lastOpenFiles": [
+    "Matematika/1-darajali logika.md",
     "Analiz.md",
     "Ish.md",
     "Untitled.md",
