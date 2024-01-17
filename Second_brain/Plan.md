@@ -3,13 +3,13 @@
 ## LevIs
 
 - Rasul aka va fleykaning hisob-kitobi
-- Proyektlar
 - Levisning investitsion jadvali
-- 600$ kreditni aniqlashtirish
 - Ajratilgan balans
+- 6700 ni topish
 
 ## iSell
 - isell.uz ni nomimizga o'tkazish
 - Investitsion jadvalni qayta ko'rib chiqish
 
 ## Fleyka
+- Qushbegi ofis arendasi
