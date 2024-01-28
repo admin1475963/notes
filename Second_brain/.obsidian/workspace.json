@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c947f71490b8047",
+            "id": "8c67d22b86a866fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plan.md",
+                "file": "Matematika/Chekli yaratuvchilarga ega abel gruppasining cheksiz tsiklik va primar guruhlarga ajralishi.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e1cecf52ef5a291f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plan.md",
+                "file": "Matematika/Chekli yaratuvchilarga ega abel gruppasining cheksiz tsiklik va primar guruhlarga ajralishi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plan.md",
+                "file": "Matematika/Chekli yaratuvchilarga ega abel gruppasining cheksiz tsiklik va primar guruhlarga ajralishi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plan.md"
+                "file": "Matematika/Chekli yaratuvchilarga ega abel gruppasining cheksiz tsiklik va primar guruhlarga ajralishi.md"
               }
             }
           }
@@ -146,12 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c947f71490b8047",
+  "active": "8c67d22b86a866fe",
   "lastOpenFiles": [
-    "Plan.sync-conflict-20240110-110628-PA3L3SE.md",
-    "Plan.md",
+    "Matematika/Chekli yaratuvchili gruppa.md",
+    "Matematika/Gruppalarning perpendikular yig'indisi.md",
+    "Matematika/Abel gruppa.md",
+    "Matematika/Chekli yaratuvchilarga ega abel gruppasining cheksiz tsiklik va primar guruhlarga ajralishi.md",
+    "Untitled.md",
+    "Matematika/Primar gruppa.md",
+    "Matematika/Tsiklik gruppa.md",
+    "2024-01-27.md",
+    "Untitled.canvas",
     "Matematika/Akslantirish.md",
     "Matematika/Metrik fazo.md",
+    "Plan.md",
+    "Plan.sync-conflict-20240110-110628-PA3L3SE.md",
     "Matematika/1-darajali logika.md",
     "IT"
   ]
