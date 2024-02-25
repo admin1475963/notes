@@ -4,91 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f46765556faf00c7",
+        "id": "59976a32b17a4518",
         "type": "tabs",
         "children": [
           {
-            "id": "8d3e4c8877b25615",
+            "id": "e0152e6d6a81d367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Cypress.md",
+                "file": "IT/Test/Kod qoplanishi.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f9a41b4e399aadd8",
+            "id": "ef017499ffc2a5ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/End-to-end test.md",
+                "file": "IT/DevOps/CI.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "06d8ceafc56b1a23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Integratsion test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47af554a3b675fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Asosiy CI platformalar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c7cf57d753206c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/CI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c277925fdeac177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Test (DT).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1183f5415e260286",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/DevOps/CI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/DevOps/CI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/DevOps/CI.md"
+              }
             }
           }
         ],
@@ -211,15 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1183f5415e260286",
+  "active": "ef017499ffc2a5ad",
   "lastOpenFiles": [
-    "IT/CI.md",
-    "IT/Test (DT).md",
-    "IT/Unit test.md",
-    "IT/End-to-end test.md",
-    "IT/Asosiy CI platformalar.md",
-    "IT/Integratsion test.md",
-    "IT/Cypress.md",
+    "CI Kod qoplanish siyosati.md",
+    "IT/Test/Kod qoplanishi.md",
+    "Kod qatorlarining turlari.md",
+    "IT/DevOps/CI.md",
+    "Webapp.io.md",
+    "IT/DevOps/Asosiy CI platformalar.md",
+    "IT/DevOps/Cypress.md",
+    "IT/Test/Test (DT).md",
+    "IT/Test/Integratsion test.md",
+    "IT/Test/End-to-end test.md",
+    "IT/Test",
+    "IT/DevOps",
+    "IT/Test/Unit test.md",
     "Matematika/Gruppalar gomomorfizmi haqidagi asosiy teorema.md",
     "Matematika/Gomomorfizm mag'izi.md",
     "Matematika/Chekli yaratuvchilarga ega abel gruppasining cheksiz tsiklik va primar guruhlarga ajralishi.md",
@@ -235,11 +189,7 @@
     "Matematika/Chekli yaratuvchili gruppa.md",
     "Matematika/Bazissiz chekli yaratuvchili gruppa.md",
     "Matematika/Abel gruppa.md",
-    "2024-01-27.md",
     "Untitled.canvas",
-    "Matematika/Akslantirish.md",
-    "Matematika/Metrik fazo.md",
-    "Plan.sync-conflict-20240110-110628-PA3L3SE.md",
     "IT"
   ]
 }
