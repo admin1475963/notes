@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Test/Kod qoplanishi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef017499ffc2a5ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/DevOps/CI.md",
+                "file": "Plan.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/DevOps/CI.md",
+                "file": "Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/DevOps/CI.md",
+                "file": "Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/DevOps/CI.md"
+                "file": "Plan.md"
               }
             }
           }
@@ -159,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef017499ffc2a5ad",
+  "active": "e0152e6d6a81d367",
   "lastOpenFiles": [
-    "CI Kod qoplanish siyosati.md",
     "IT/Test/Kod qoplanishi.md",
-    "Kod qatorlarining turlari.md",
+    "Plan.md",
     "IT/DevOps/CI.md",
+    "CI Kod qoplanish siyosati.md",
+    "Kod qatorlarining turlari.md",
     "Webapp.io.md",
     "IT/DevOps/Asosiy CI platformalar.md",
     "IT/DevOps/Cypress.md",
@@ -178,7 +166,6 @@
     "Matematika/Gomomorfizm mag'izi.md",
     "Matematika/Chekli yaratuvchilarga ega abel gruppasining cheksiz tsiklik va primar guruhlarga ajralishi.md",
     "Matematika/Erkin abel gruppasning gruppaostisi haqidagi teorema.md",
-    "Plan.md",
     "Matematika/Tsiklik gruppa.md",
     "Matematika/Adabiyotlar ro'yxati.md",
     "Matematika/Primar gruppa.md",
