@@ -1,7 +1,6 @@
 #flashcards/matematika/ehtimollar_nazariyasi
 #ehtimollar_nazariyasi
 #teorema
-#savol_bor
 
 [[Bernulli sxemasi]]da muvaffaqiyatlar sonini ${\mu_n}$ bilan belgilaymiz.
 
@@ -13,8 +12,6 @@ Unda $${P(\mu_n=k) \to \frac{\lambda^k e^{-\lambda}}{k!}}$$
 $$P(\mu_n = k) = C_n^k p^k (1 - p)^{n-k}$$
 
 ${p(n) = \frac{\lambda}{n}}$ ni hisobga olgan holda, limitni topamiz.
-# Savollar:
-Qanday hollarda ushbu teoremani ${P(\mu_n=k)}$ ni hisoblash uchun ishlatib bo'lmaydi.
 
 # Takrorlash
 

@@ -5,3 +5,4 @@
 Lekin agar u bazisga ega bo'lsa, bu bazis chekli bo'ladi.
 
 [[Bazissiz chekli yaratuvchili gruppa|Misol]]
+
