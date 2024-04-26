@@ -1,1 +1,0 @@
-Dasturiy ta'minotda kodning faqat bitta komponentasini testdan o'tkazuvchi test

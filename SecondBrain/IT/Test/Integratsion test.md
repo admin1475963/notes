@@ -1,1 +1,0 @@
-Dasturiy ta'minotning bir necha komponentlarini birgalikda tekshirish.
