@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"e2ae5d716b7c5317","type":"text","text":"$$\n\\begin{align*}\n& f = (\\lambda \\lambda) \\\\\n& f = (0 \\lambda) \\\\\n& f = (\\lambda 1) \\\\\n& f = (1 \\lambda) \\\\\n& f = (\\lambda 0) \\\\\n& f = (00) \\\\\n& f = (00)\\ G = <<0><1>>\\\\\n& f = (11) \\\\\n& f = (11)\\ G = <<0><1>>\\\\\n& f = (01) \\\\\n& f = (01)\\ G = <<0><1>> \\\\\n& f = (10) \\\\\n& f = (10)\\ G = <<0><1>>\n\\end{align*}\n$$","x":660,"y":1000,"width":360,"height":340},
+		{"id":"19d7d588f7779a68","type":"text","text":"$$\n\\begin{align*}\nf = (\\lambda \\lambda) \\\\\nf = (0 \\lambda)\n\\end{align*}\n$$","x":-480,"y":120,"width":120,"height":80},
+		{"id":"6c0b4afa73b58e75","type":"text","text":"$$\n\\begin{align*}\nf = (\\lambda \\lambda) \\\\\nf = (\\lambda 1)\n\\end{align*}\n$$","x":-320,"y":120,"width":120,"height":80},
+		{"id":"6a2ccf5738318ce1","type":"text","text":"$$\n\\begin{align*}\nf = (\\lambda \\lambda)\n\\end{align*}\n$$","x":-620,"y":-100,"width":240,"height":120},
+		{"id":"09645de64c4d5898","type":"text","text":"$$\n\\begin{align*}\nf = (\\lambda \\lambda) \\\\\nf = (0 \\lambda)\n\\end{align*}\n$$","x":-1120,"y":100,"width":300,"height":140},
+		{"id":"1b8ded87ad39921d","type":"text","text":"$$\n\\begin{align*}\nf = (\\lambda \\lambda) \\\\\nf = (0 \\lambda)\n\\end{align*}\n$$","x":-700,"y":160,"width":120,"height":80}
+	],
+	"edges":[
+		{"id":"7c58f24258bde09e","fromNode":"09645de64c4d5898","fromSide":"top","toNode":"6a2ccf5738318ce1","toSide":"bottom"},
+		{"id":"060c2baea67221df","fromNode":"1b8ded87ad39921d","fromSide":"top","toNode":"6a2ccf5738318ce1","toSide":"bottom"},
+		{"id":"b0f7daeda251f2b9","fromNode":"6c0b4afa73b58e75","fromSide":"top","toNode":"6a2ccf5738318ce1","toSide":"bottom"},
+		{"id":"b1e6bd86db18baa4","fromNode":"19d7d588f7779a68","fromSide":"top","toNode":"6a2ccf5738318ce1","toSide":"bottom"}
+	]
+}

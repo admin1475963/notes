@@ -1,6 +1,5 @@
 
-#flashcards/matematika/matematik_statistika
-#matematik_statistika 
+#matematikstatistika 
 #tarif
 
 Aytaylik, ${\xi_1, \xi_2, \ldots, \xi_n}$ [[Tanlanma|tanlanma]].
@@ -11,12 +10,3 @@ $$
 \sqrt{n}(\theta_n - \theta) \overset{d}{\rightarrow} \mathcal{N}(0, \sigma^2(\theta)), n\rightarrow\infty
 $$
 [[Normal taqsimot]]
-
-# Savollar
-
-Asimptotik normal baho:
-?
-$$
-\sqrt{n}(\theta_n - \theta) \overset{d}{\rightarrow} \mathcal{N}(0, \sigma^2(\theta)), n\rightarrow\infty
-$$
-<!--SR:!2024-05-08,3,250-->

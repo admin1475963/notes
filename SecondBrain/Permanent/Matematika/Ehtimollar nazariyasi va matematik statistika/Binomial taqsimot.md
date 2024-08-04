@@ -1,6 +1,5 @@
-#flashcards/matematika/ehtimollar_nazariyasi 
 #tarif 
-#ehtimollar_nazariyasi 
+##ehtimollarnazariyasi 
 
 Aytaylik, biz $n$ marta bir eksperimentni takrorladik.
 Har bir eksperiment ikkita natijaga olib kelishi mumkin: muvaffaqiyat yoki yo'q.
@@ -19,13 +18,3 @@ $$
 P(\xi = k) = C_n^k p^k q^{n - k}
 $$
 bo'lsa.
-
-# Savollar
-
-Binomial taqsimot belgisi
-??
-$Bi(n, p)$
-<!--SR:!2024-05-07,3,250!2024-05-07,3,250-->
-
-Agar ${\xi \sim Bi(n, p)}$, unda $P(\xi=k)=$ ==${C_n^k p^k q^{n - k}}$==
-<!--SR:!2024-05-07,3,250-->

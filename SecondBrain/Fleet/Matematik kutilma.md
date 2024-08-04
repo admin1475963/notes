@@ -1,0 +1,4 @@
+#ehtimollarnazariyasi 
+#tarif 
+
+[[Tasodifiy miqdor]]

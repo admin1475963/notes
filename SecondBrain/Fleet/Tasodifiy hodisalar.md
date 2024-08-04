@@ -1,0 +1,4 @@
+#ehtimollarnazariyasi 
+#tarif 
+
+[[Ehtimollar fazosi]]
